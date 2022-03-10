@@ -1,2 +1,2 @@
-# simplicial
-Notes on simplicial sets
+# 単体的備忘録
+単体的集合についてのノートです。
